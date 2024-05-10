@@ -1,0 +1,165 @@
+:root {
+    --font-family: "BMW Helvetica 75", sans-serif;
+    --second-family: "Hind Siliguri", sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+html,
+body {
+    height: 100%;
+}
+
+img {
+    max-width: 100%;
+}
+
+ul>li {
+    list-style: none;
+}
+
+.nav__list-texts>li{
+    list-style: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+p {
+    margin: 0;
+}
+
+.wrapper {
+    min-width: 100%;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+
+}
+
+.hero {
+    background-color: black;
+    height: 100vh;
+    background-image: url(../img/Group\ 2.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header {
+    padding-top: 60px;
+}
+.navigation {
+}
+.nav__list {
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+.nav__list-text {
+    display: flex;
+    column-gap: 95px;
+
+}
+.nav__link {
+    font-family: var(--second-family);
+    font-weight: 500;
+    font-size: 18px;
+    color: #fff;
+    border-bottom: none;
+    transition: all 0.2s;
+}
+
+.nav__link:hover{
+    border-bottom: 2px solid #013861;
+}
+
+.nav__list-order {
+}
+.order-now {
+    padding: 10px 20px;
+    background: #013861;
+    font-family: var(--second-family);
+    font-weight: 500;
+    font-size: 18px;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow:0 0 20px #013861;
+    font-family: var(--second-family);
+    font-weight: 500;
+    font-size: 18px;
+    color: #ffffff;
+    transition: all 0.3s;    
+}
+
+.order-now:hover{
+    padding: 15px 30px;
+}
+
+.hero__desc {
+    padding-top: 207px;
+}
+.hero__title {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 75px;
+    color: #fff;
+    align-items: flex-;
+}
+.hero__footer {
+    padding-top: 170px;
+}
+.learn-left {
+}   
+
+.about-car{
+    align-items: center;
+    display: flex;
+}
+
+.learn-more {
+    font-family: var(--second-family);
+    font-weight: 500;
+    font-size: 12px;
+    color: #fff;
+    padding: 8px 24px 8px 16px;
+    background: #001c31;
+    border-radius: 5px;
+}
+
+
+.characteristics__list {
+    column-gap: 150px;
+    display: flex;
+    margin-left: 350px;
+}
+.characteristics__item {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 14px;
+    color: #fff;
+}
+.characteristics__max-speed {
+}
+.characteristics__speed {
+}

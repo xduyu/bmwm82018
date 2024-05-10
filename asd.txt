@@ -1,0 +1,59 @@
+        <!-- <section class="hero">
+            <div class="container">
+                <header class="header">
+                   <nav class="nav">
+                        <ul class="nav__list">
+                        <div class="nav__list-texts">
+                                 <li class="nav__item">
+                                    <a href="#" class="nav__link">Home</a>
+                                </li>
+                                <li class="nav__item">
+                                    <a href="#" class="nav__link">Design</a>
+                                </li>
+                                <li class="nav__item">
+                                    <a href="#" class="nav__link">Features</a>
+                                </li>
+                                <li class="nav__item">
+                                    <a href="#" class="nav__link">Club</a>
+                                </li>
+                                <li class="nav__item">
+                                    <a href="#" class="nav__link">Reviews</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="nav__list-button__order">
+                            <a href="#" class="order-now">Order now</a>
+                        </div>
+                    </nav>
+                </header>
+                <div class="hero__desc">
+                    <h1 class="hero__title">BMW <br> M8 2018</h1>
+                </div>
+                <div class="hero__footer">
+                    <div class="learn-left">
+                        <a href="#" class="learn-more">Learn More</a>
+                        <svg width="21" height="10" viewBox="0 0 21 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M1 4.4C0.668629 4.4 0.4 4.66863 0.4 5C0.4 5.33137 0.668629 5.6 1 5.6V4.4ZM20.4243 5.42426C20.6586 5.18995 20.6586 4.81005 20.4243 4.57574L16.6059 0.757359C16.3716 0.523045 15.9917 0.523045 15.7574 0.757359C15.523 0.991674 15.523 1.37157 15.7574 1.60589L19.1515 5L15.7574 8.39411C15.523 8.62843 15.523 9.00833 15.7574 9.24264C15.9917 9.47696 16.3716 9.47696 16.6059 9.24264L20.4243 5.42426ZM1 5.6H20V4.4H1V5.6Z" fill="white"/>
+                        </svg>                            
+                    </div>
+                    <ul class="characteristics__list">
+                        <li class="characteristics__item">
+                            <h2 class="characteristics__max-speed">Max speed</h2>
+                            <div class="characteristics__speed">250 km/h</div>
+                        </li>
+                        <li class="characteristics__item">
+                            <h2 class="characteristics__max-speed">Engine</h2>
+                            <div class="characteristics__speed">4.4L</div>
+                        </li>
+                        <li class="characteristics__item">
+                            <h2 class="characteristics__max-speed">Power</h2>
+                            <div class="characteristics__speed">600+ BHP</div>
+                        </li>
+                        <li class="characteristics__item">
+                            <h2 class="characteristics__max-speed">Mass</h2>
+                            <div class="characteristics__speed">1960 Kg</div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section> -->
